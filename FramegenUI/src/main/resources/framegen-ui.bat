@@ -1,0 +1,1 @@
+java -Xmx1024m -Xms1024m -Dframegen.properties.file=framegen.properties -jar FramegenUI-0.0.1-SNAPSHOT-jar-with-dependencies.jar
